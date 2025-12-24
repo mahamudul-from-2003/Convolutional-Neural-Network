@@ -174,7 +174,7 @@ Model/fresh_fruit_10class_cnn.pth
 
 ▶️ How to Run (Google Colab)
 
-Open the notebook (210129.ipynb)
+Open the notebook [(210129.ipynb)](https://colab.research.google.com/drive/1r8VPVYV6F2c744oXIMR5AGPg_64_wZGu?usp=sharing)
 
 Select Runtime → Run all
 
