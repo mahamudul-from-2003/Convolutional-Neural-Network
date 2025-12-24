@@ -51,21 +51,8 @@ Watermelon
 
 📁 Dataset Structure
 Model/
-├── train/
-│   ├── Apple/
-│   ├── Banana/
-│   ├── avocado/
-│   ├── cherry/
-│   ├── kiwi/
-│   ├── mango/
-│   ├── orange/
-│   ├── pinenapple/
-│   ├── strawberries/
-│   └── watermelon/
-├── test/
-│   ├── Apple/
-│   ├── Banana/
-│   └── ...
+<img width="610" height="459" alt="image" src="https://github.com/user-attachments/assets/298114ee-810d-4fa3-835b-3b9cf9e9675a" />
+
 
 📸 Custom Images
 
